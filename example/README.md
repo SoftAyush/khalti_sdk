@@ -13,7 +13,7 @@ A comprehensive example project demonstrating how to integrate the Khalti Paymen
 
 ### Prerequisites
 
-- Flutter SDK: `^3.4.0`
+- Flutter SDK: `^3.22.0`
 - A Khalti Merchant account to get your `Public Key`.
 - A backend server to initiate payment and provide a `pidx`.
 
