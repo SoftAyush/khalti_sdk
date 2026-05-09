@@ -55,4 +55,6 @@ Use the following credentials in the **Sandbox** environment to test the integra
 - [Flutter Documentation](https://docs.flutter.dev/)
 
 ---
-Developed by [Merchant Name/Your Company]
+👨‍💻 Developed and maintained by [Ayush Timalsina](https://ayushtimalsina.com.np)
+
+---
