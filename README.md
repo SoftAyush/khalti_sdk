@@ -12,7 +12,7 @@
 <a href="https://pub.dev/packages/khalti_sdk"><img src="https://img.shields.io/pub/v/khalti_sdk.svg" alt="Pub"></a>
 <a href="https://docs.khalti.com/"><img src="https://img.shields.io/badge/Khalti-Docs-blueviolet" alt="Khalti Docs"></a>
 <a href="./LICENSE"><img src="https://img.shields.io/badge/License-BSD--3-informational" alt="BSD-3 License"></a>
-<a href="https://github.com/SoftAyush/khalti_sdk/issues"><img src="https://img.shields.io/github/issues/khalti/checkout-sdk-flutter" alt="GitHub issues"></a>
+<a href="https://github.com/SoftAyush/khalti_sdk/issues"><img src="https://img.shields.io/github/issues/issues/SoftAyush/khalti_sdk" alt="GitHub issues"></a>
 </p>
 
 ---
