@@ -12,7 +12,7 @@
 <a href="https://pub.dev/packages/khalti_sdk"><img src="https://img.shields.io/pub/v/khalti_sdk.svg" alt="Pub"></a>
 <a href="https://docs.khalti.com/"><img src="https://img.shields.io/badge/Khalti-Docs-blueviolet" alt="Khalti Docs"></a>
 <a href="./LICENSE"><img src="https://img.shields.io/badge/License-BSD--3-informational" alt="BSD-3 License"></a>
-<a href="https://github.com/khalti/checkout-sdk-flutter/issues"><img src="https://img.shields.io/github/issues/khalti/checkout-sdk-flutter" alt="GitHub issues"></a>
+<a href="https://github.com/SoftAyush/khalti_sdk/issues"><img src="https://img.shields.io/github/issues/khalti/checkout-sdk-flutter" alt="GitHub issues"></a>
 </p>
 
 ---
@@ -50,7 +50,7 @@ Add `khalti_sdk` to your `pubspec.yaml`:
 
 ```yaml
 dependencies:
-  khalti_sdk: ^1.0.0
+  khalti_sdk: ^1.0.1
 ```
 
 ### 2. Platform Setup
@@ -133,7 +133,7 @@ The `onMessage` callback provides events to help you handle different scenarios:
 
 This SDK is maintained by **Ayush Timalsina**. 
 - **Website**: [ayushtimalsina.com.np](https://ayushtimalsina.com.np)
-- **GitHub**: [@ayush-t](https://github.com/ayush-t)
+<!-- - **GitHub**: [@ayush-t](https://github.com/ayush-t) -->
 
 ---
 
@@ -141,8 +141,8 @@ This SDK is maintained by **Ayush Timalsina**.
 
 This project is licensed under the **BSD 3-Clause License**. See the [LICENSE](./LICENSE) file for the full text.
 
-## 🤝 Support
+<!-- ## 🤝 Support
 
 **Merchant Team**: 9801165557 | merchant@khalti.com  
 **Technical Support**: 9801856383 | techsupport@khalti.com  
-**General Queries**: 9801165565 | merchantcare@khalti.com
+**General Queries**: 9801165565 | merchantcare@khalti.com -->
