@@ -1,5 +1,5 @@
 import 'package:khalti_sdk/src/core/core/khalti_request_model.dart';
-import 'package:test/test.dart';
+import 'package:flutter_test/flutter_test.dart';
 
 void main() {
   final model = TestRequestModel(id: 101);

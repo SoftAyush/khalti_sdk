@@ -4,7 +4,7 @@ import 'package:http/http.dart' as http;
 import 'package:khalti_sdk/khalti_sdk.dart';
 import 'package:khalti_sdk/src/flutter/data/khalti_http_client.dart';
 import 'package:mocktail/mocktail.dart';
-import 'package:test/test.dart';
+import 'package:flutter_test/flutter_test.dart';
 
 class _ClientMock extends Mock implements http.Client {}
 

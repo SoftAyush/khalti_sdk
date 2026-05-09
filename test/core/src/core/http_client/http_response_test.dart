@@ -1,7 +1,7 @@
 // Copyright (c) 2024 The Khalti Authors. All rights reserved.
 
 import 'package:khalti_sdk/src/core/core/http_client/http_response.dart';
-import 'package:test/test.dart';
+import 'package:flutter_test/flutter_test.dart';
 
 void main() {
   group('HttpResponse tests | ', () {

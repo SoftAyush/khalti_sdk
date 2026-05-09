@@ -3,8 +3,7 @@
 import 'dart:async';
 
 import 'package:khalti_sdk/khalti_sdk.dart';
-import 'package:test/test.dart';
-
+import 'package:flutter_test/flutter_test.dart';
 import '../core/http_client/khalti_client_mock.dart';
 
 void main() {
